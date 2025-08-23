@@ -1,6 +1,6 @@
 package com.adomlogistics.service;
 
-import com.adomlogistics.ds.MyQueue;
+import com.adomlogistics.datastructures.MyQueue;
 import com.adomlogistics.model.Driver;
 import com.adomlogistics.util.FileManager;
 import java.util.List;

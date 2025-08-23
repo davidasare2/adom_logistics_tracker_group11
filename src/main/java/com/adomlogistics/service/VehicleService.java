@@ -1,6 +1,6 @@
 package com.adomlogistics.service;
 
-import com.adomlogistics.ds.MyList;
+import com.adomlogistics.datastructures.MyList;
 import com.adomlogistics.model.Vehicle;
 import com.adomlogistics.util.FileManager;
 import java.util.List;
